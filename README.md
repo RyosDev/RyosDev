@@ -22,7 +22,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,javascript,typescript,react,tailwind,nodejs,nextjs, git"/>
+    <img src="https://skillicons.dev/icons?i=c,javascript,typescript,react,tailwind,nodejs,nextjs"/>
     <br>
 </div>
 
